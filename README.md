@@ -16,7 +16,7 @@ The point of using graph databases is two-fold:
  * You can model your data more easily, most of the real world problems involve relations between objects. You can literally draw your database to paper.
  * You want to exploit the locality of your data, why should a query like "get all friends of user A" take more time when theres more non-related entries in the database?
 
-Currently Hawthorn runs in non-persistent in-memory mode. This will changed in future.
+Currently Hawthorn runs in non-persistent in-memory mode. This will change in future.
 
 See examples & wikipedia for more info.
 
