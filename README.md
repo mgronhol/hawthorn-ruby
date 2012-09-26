@@ -11,7 +11,7 @@ Hawthorn is a embeddable graph database written in C + Ruby.
 In graph databases you represent your data as nodes and connections ( edges ) between them. 
 Each node can have multiple properties ( so they work a bit like a key-value store) and each edge has type and weight.
 
-Currently Hawthorn runs in non-persistent in-memory mode. This will changed in future.
+Currently Hawthorn runs in non-persistent in-memory mode. This will change in future.
 
 See examples & wikipedia for more info.
 
